@@ -1,4 +1,4 @@
-# netflixstockprofile
+# Netflix stock Profile
 Netflix stock profile data analysis
 
 1.) main.ipynb : jupyter notebook with the code for data analysis
